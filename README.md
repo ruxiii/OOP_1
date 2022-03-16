@@ -1,5 +1,5 @@
 # Proiect1_POO
-					DOCUMENTIE
+					DOCUMENTATIE
 
 Am realizat clasa mare denumita Company (companii aeriene) si clasa mai mica Flights, reprezentand zborurile din cadrul acestei companii. Am citit si afisat in int main() toatele datele, supraincarcand operatorii >> si <<, am initializat toate datele de care aveam nevoie si, dupa aceea, am realizat mai multe functii pentru a indeplini cerintele cerute:
              
