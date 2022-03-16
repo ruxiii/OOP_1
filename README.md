@@ -20,5 +20,5 @@ Am realizat clasa mare denumita Company (companii aeriene) si clasa mai mica Fli
   -	 Supraincarcarea operatorului *: calculeaza totalul zborurilor de la cele doua companii dintr-un numar de zile cu ajutorul get-erilor nf (number_flights) si nd (number_days) – acest lucru se poate realiza fara supraincarcarea operatorilor +, intrucat se realizeaza aceste operatii asupra unor numere
 In int main() am realizat cele doua fluxuri de testare ale functiilor, apeland, astfel, toate componentele claselor.
 
-									                                                                          									Iftimi Ruxandra, 134
+									                                                                          					Iftimi Ruxandra, 134
 
